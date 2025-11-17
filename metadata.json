@@ -1,0 +1,5 @@
+{
+  "name": "Entraîneur de Conversion d'Unités",
+  "description": "Une application web pour aider les élèves de seconde à s'entraîner sur les conversions d'unités de longueur (km, hm, dam, m, dm, cm, mm) de manière interactive.",
+  "requestFramePermissions": []
+}
